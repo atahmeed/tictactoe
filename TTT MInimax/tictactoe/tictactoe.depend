@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521300175 source:c:\users\user\documents\ttt\tictactoe\source.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

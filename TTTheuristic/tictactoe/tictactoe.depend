@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521045677 source:c:\users\user\documents\ttt\tictactoe\source.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1521299791 source:c:\users\user\documents\tttheuristic\tictactoe\source.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
